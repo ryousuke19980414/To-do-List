@@ -69,9 +69,9 @@ const addTodo = (press) => {
   if (!todo.value) return false
   // ボタン(true) 又は Enter が押されたら
   if (window.event.keyCode == 13 || press == true) {
-    const nextId = todoItem.length === 0 ?
-      0 :
-      todoItem[todoItem.length - 1].id + 1
+    const nextId =
+      todoItem.length === 0 ? 0
+        : todoItem[todoItem.length - 1].id + 1
     todoItem.push({
       id: nextId,
       text: todo.value,
