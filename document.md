@@ -27,7 +27,8 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 
 ### HTML(inedx.html)
 
-- [Delete selected items] ボタンのクリックで個別削除する関数 `deleteOne()` 呼び出すように
+- [Delete selected items] ボタン
+  - 選択された項目を削除する関数 `deleteSelected()` を呼び出すように
 
 ### CSS(style.css)
 
