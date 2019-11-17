@@ -31,10 +31,9 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 
 ### CSS(style.css)
 
-- 大見出しを中央揃えに
-- Google Fonts を導入
-  - 日本語フォントをどれか 1 つ導入
+- 大見出し (h1) を中央揃えに
+- body に対して Google Fonts を導入
 
 ### JavaScript(main.js)
 
-- 特になし (必要な関数・処理は実装済み)
+- 特になし (必要な関数は実装済み)
