@@ -20,8 +20,8 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 - html ファイルが入っているディレクトリを Visual Studio Code で開く
   - ドラッグ & ドロップで開けます
 - 右下の `Go Live` をクリックしてサーバーを起動
+  - 起動時にポート番号が競合してなければ <http://localhost:5500/> でアクセス可能
   - 停止するには右下の `Port : xxxx` と書いてるところを選択
-  - ポート番号が競合してなければ <http://localhost:5500/> でアクセス可能
 
 ## template に加える変更
 
