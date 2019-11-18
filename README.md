@@ -11,10 +11,10 @@
 このプロジェクトに貢献することで、あなたの制作した To-do リストが公開されます。
 
 テンプレートの例がこちらになります。
-→ <https://hoge.github.io/repo/submit/ht99a999/index>
+→ <https://tsuen4.github.io/To-do-List/submit/ht99a999/>
 
 あなたの変更がこのリポジトリにマージされると、
-`https://hoge.github.io/repo/submit/学籍番号/index`
+`https://tsuen4.github.io/To-do-List/submit/学籍番号/`
 でアクセスできるようになります！
 
 ## 貢献方法
