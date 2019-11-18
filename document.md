@@ -12,7 +12,7 @@ Web Storage API の localStorage を使用してローカル環境(ブラウザ)
 ## サーバーの起動方法
 
 開発時には Web サーバーの起動が必要ですが、どんな方法で起動しても構いません。
-ここでは、Visual Studio Code を用いたサーバーの起動方法を紹介します。
+ここでは、[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) を用いたサーバーの起動方法を紹介します。
 
 - Visual Studio Code に `Live Server` という拡張機能を導入
   - Visual Studio Code の左側から拡張機能のタブを開いて検索
